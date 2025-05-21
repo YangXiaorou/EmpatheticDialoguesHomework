@@ -11,7 +11,7 @@ DATA_PATH = "empathetic_dialogues_data/train.csv"
 HIST_LEN = 4
 
 # === GLM-4 ½Ó¿ÚÅäÖÃ ===
-OPENAI_API_KEY = "e0968daf98d545489636bac8c0c2bba0.GJxAlFYDpyc3T3y2"
+OPENAI_API_KEY = "   "
 OPENAI_API_BASE = "https://open.bigmodel.cn/api/paas/v4/"
 OPENAI_MODEL = "glm-4-air"
 
